@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "E-learning",
     location: "Online",
     description:
-      "After 7 months of studying, I decided to pursue Freelancing to hone my skills.",
+      "After 6 months of studying, I decided to pursue Freelancing to hone my skills.",
     icon: React.createElement(LuGraduationCap),
     date: "June 2022 - December 2022",
   },
