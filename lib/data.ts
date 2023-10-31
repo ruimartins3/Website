@@ -100,4 +100,6 @@ export const skillsData = [
   "MySQL",
   "Python",
   "SAP Cloud",
+  "C#",
+  ".NET Core",
 ] as const;
