@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://ruimartins3.github.io/website/img/main_photo.jpg"
+              src="https://ruimartins3.github.io/2nd-website/img/main_photo.jpg"
               alt="Rui"
               width="192"
               height="192"
