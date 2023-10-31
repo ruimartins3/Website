@@ -103,4 +103,5 @@ export const skillsData = [
   ".NET Core",
   "SAP Cloud",
   "AWS Cloud",
+  "Docker",
 ] as const;
