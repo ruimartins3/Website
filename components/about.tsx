@@ -21,14 +21,15 @@ export default function About() {
       <p className="mb-3">
         After graduating with a degree in{" "}
         <span className="font-medium">Sports Science</span>, I made a career
-        switch to programming. I attended a coding bootcamp for mere curiosity
-        and since then I didn't stop. My goal was to master{" "}
+        switch to programming. I enrolled in a basic Udemy course out of sheer
+        curiosity, and from that point forward, I never ceased my learning
+        journey. My goal was to master{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">Solving complex problems</span> is my passion,
         and I absolutely <span className="underline">love</span> the feeling of
         finally figuring out a solution to a problem. My core skills include{" "}
-        <span className="font-medium">JavaScript, React, CSS3, HTML5</span>,
-        and I'm constantly exploring new technologies.
+        <span className="font-medium">JavaScript, React, CSS3, HTML5</span>, and
+        I'm constantly exploring new technologies.
       </p>
 
       <p>
@@ -36,7 +37,10 @@ export default function About() {
         video games, working out, and be with my family. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning other{" "}
-        <span className="font-medium">technologies and programming languages</span>.
+        <span className="font-medium">
+          technologies and programming languages
+        </span>
+        .
       </p>
     </motion.section>
   );
