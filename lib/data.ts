@@ -45,16 +45,15 @@ export const experiencesData = [
   {
     title: "Freelancing",
     location: "Lisbon, Portugal",
-    description:
-      "After a month of freelancing, I got a job at Nestlé!",
+    description: "After a month of freelancing, I got a job at Nestlé!",
     icon: React.createElement(FaReact),
     date: "January 2023 - Febuary 2023",
   },
   {
-    title: "Front-End Developer | Nestlé",
+    title: "Web Developer Specialist | Nestlé",
     location: "Lisbon, Portugal",
     description:
-      "I'm currently a Front-End Developer working for Nestlé. My stack includes HTML5, CSS3, JavaScript and SAP Cloud.",
+      "I'm currently a Web Developer working for Nestlé. My stack includes HTML5, CSS3, JavaScript and SAP CDC.",
     icon: React.createElement(CgWorkAlt),
     date: "March 2023 - Present",
   },
@@ -63,22 +62,19 @@ export const experiencesData = [
 export const projectsData = [
   {
     title: "Comfy Store",
-    description:
-      "An E-commerce store with authentication and payment system!",
+    description: "An E-commerce store with authentication and payment system!",
     tags: ["React", "Redux", "MongoDB", "Styled-components", "Auth0", "Stripe"],
     imageUrl: corpcommentImg,
   },
   {
     title: "Github User Search",
-    description:
-      "A Github user search app made with React!",
-    tags: ["React", "Redux", "MongoDB", "Auth0",],
+    description: "A Github user search app made with React!",
+    tags: ["React", "Redux", "MongoDB", "Auth0"],
     imageUrl: rmtdevImg,
   },
   {
     title: "Mini-Wiki Search",
-    description:
-      "A mini search engine that allows you to search websites!",
+    description: "A mini search engine that allows you to search websites!",
     tags: ["HTML", "CSS", "SQL", "JavaScript", "Express"],
     imageUrl: wordanalyticsImg,
   },
