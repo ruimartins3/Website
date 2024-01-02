@@ -50,12 +50,20 @@ export const experiencesData = [
     date: "January 2023 - Febuary 2023",
   },
   {
-    title: "Web Developer Specialist | Nestlé",
+    title: "Web Developer Specialist at Nestlé",
     location: "Lisbon, Portugal",
     description:
-      "I'm currently a Web Developer working for Nestlé. My stack includes HTML5, CSS3, JavaScript and SAP CDC.",
+      "Web Developer at Nestlé, specializing in the implementation of web solutions using a diverse stack that encompassed HTML5, CSS3, JavaScript, and SAP CDC.",
     icon: React.createElement(CgWorkAlt),
-    date: "March 2023 - Present",
+    date: "March 2023 - January 2024",
+  },
+
+  {
+    title: "Technology Consultant at SAP",
+    location: "Lisbon, Portugal",
+    description: "Technology Consultant at SAP",
+    icon: React.createElement(CgWorkAlt),
+    date: "Febuary 2024 - Present",
   },
 ] as const;
 
