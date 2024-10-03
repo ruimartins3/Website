@@ -51,9 +51,7 @@ export default function Intro() {
               delay: 0.1,
               duration: 0.7,
             }}
-          >
-            
-          </motion.span>
+          ></motion.span>
         </div>
       </div>
 
@@ -63,8 +61,8 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Rui.</span> I'm a{" "}
-        <span className="font-bold">JavaScript Developer</span> with{" "}
-        <span className="font-bold">1 year</span> of experience. I enjoy
+        <span className="font-bold">Technology Consultant</span> with{" "}
+        <span className="font-bold">2 years</span> of experience. I enjoy
         building <span className="italic">sites & apps.</span>
       </motion.h1>
 
